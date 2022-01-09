@@ -34,7 +34,7 @@ Esto añade ciertas ventajas como: *menos código duplicado, mayor legibilidad, 
 
 ## Mockups
 
-
+<img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/topics.png" alt="drawing" width="200"/> <img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/users.png" alt="drawing" width="200"/> <img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/categories.png" alt="drawing" width="200"/>
 
 ---
 
