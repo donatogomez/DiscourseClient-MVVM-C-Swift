@@ -33,9 +33,9 @@ Esto añade ciertas ventajas como: *menos código duplicado, mayor legibilidad, 
 * Ver detalle de category
 
 ## Mockups
-
-<img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/topics.png" alt="drawing" width="200"/> <img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/users.png" alt="drawing" width="200"/> <img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/categories.png" alt="drawing" width="200"/>
-
+<div style="text-align:center">
+<img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/topics.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/users.png" alt="drawing" width="250"/> <img src="https://github.com/donatogomez/DiscourseClient/blob/main/Mockups/categories.png" alt="drawing" width="250"/>
+</div>
 ---
 
 [![Linkedin: Donato Gomez](https://img.shields.io/badge/-Donato_Gomez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donatogomez/)](https://www.linkedin.com/in/donatogomez/)
